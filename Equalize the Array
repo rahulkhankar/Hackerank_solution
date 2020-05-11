@@ -1,0 +1,1 @@
+return (len(arr)-max([arr.count(x) for x in arr]))
